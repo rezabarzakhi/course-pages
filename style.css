@@ -1,3 +1,4 @@
+@import url("https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css");
 :root {
   color-scheme: light;
   --base:#edf2ff; --ink:#172441; --muted:#4f5c78;
@@ -18,7 +19,7 @@ body {
   background:radial-gradient(ellipse at 88% 0%,var(--aura),transparent 60%),
     radial-gradient(ellipse at 4% 34%,var(--aura2),transparent 52%),var(--base);
   background-repeat:no-repeat;
-  font:1rem/1.95 Tahoma,Arial,sans-serif;
+  font:1rem/1.95 Vazirmatn,Tahoma,Arial,sans-serif;
 }
 a { color:var(--accent); }
 header, .hero, section, .card {
@@ -83,3 +84,21 @@ a:focus-visible,button:focus-visible { outline:3px solid var(--accent); outline-
   .hero::after { max-width:100%; width:min(100%,440px); justify-self:center; }
 }
 @media(prefers-reduced-motion:reduce) { .card { transition:none; } }
+
+.back-link {
+  display:inline-flex; align-items:center; gap:.55rem; padding:.45rem .85rem;
+  border:1px solid var(--line); border-radius:999px; background:var(--glass);
+  color:var(--accent); text-decoration:none; font-weight:700; box-shadow:0 8px 24px var(--shadow);
+}
+.back-link:hover,.file-list a:hover { border-color:var(--accent); }
+.file-list,.resource-list { margin:.7rem 0; }
+.file-list { list-style:none; padding:0; display:grid; gap:.5rem; }
+.file-list a {
+  display:flex; align-items:center; justify-content:space-between; gap:.7rem;
+  padding:.58rem .9rem; border:1px solid var(--line); border-radius:12px;
+  background:var(--glass); text-decoration:none; font-weight:600;
+}
+.resource-list { padding-inline-start:1.35rem; }
+.resource-list li + li { margin-top:.35rem; }
+.resource-list li::marker { color:var(--accent); }
+.resource-note { color:var(--muted); }
