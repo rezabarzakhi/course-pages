@@ -1,0 +1,323 @@
+{
+  "semester": "نیمسال اول ۱۴۰۵–۱۴۰۶",
+  "program": "مدیریت کسب‌وکار، گرایش سیستم‌های اطلاعاتی و فناوری اطلاعات · دانشگاه خوارزمی",
+  "university": "دانشگاه خوارزمی",
+  "telegram": {
+    "label": "گروه MBA فناوری اطلاعات در تلگرام",
+    "url": "https://t.me/khu_mba_it_405"
+  },
+  "updated": "1405-09-03",
+  "courses": [
+    {
+      "slug": "mis",
+      "page": "mis.html",
+      "title": "سیستم‌های اطلاعاتی مدیریت",
+      "teacher": "پریسا موسوی",
+      "visual": "mis",
+      "driveFolder": "https://drive.google.com/drive/folders/1xm7F35ewU8jlyJa6bXkD8I8rb-BIxPPd",
+      "group": { "label": "گروه کلاس در تلگرام", "url": "https://t.me/MIS405802312534", "handle": null },
+      "sessions": [
+        {
+          "n": 1,
+          "date": "1405-08-10",
+          "code": null,
+          "seconds": 3048,
+          "video": "http://mba-it.ir/vids/mis/01-1405-08-10-51min.mp4",
+          "transcript": "transcripts/mis/01-1405-08-10.txt",
+          "note": "1eEmdn02x0lOkkl7zqSpEBsuMXZpRd7WX"
+        },
+        {
+          "n": 2,
+          "date": "1405-08-17",
+          "code": null,
+          "seconds": 5940,
+          "video": "http://mba-it.ir/vids/mis/02-1405-08-17-99min.mp4",
+          "transcript": "transcripts/mis/02-1405-08-17.txt",
+          "note": "15ZqHmzJtmC4ogpXmU5zDgfeWfpFuGcTH"
+        },
+        {
+          "n": 3,
+          "date": "1405-08-24",
+          "code": null,
+          "seconds": 5970,
+          "video": "http://mba-it.ir/vids/mis/03-1405-08-24-99min.mp4",
+          "transcript": "transcripts/mis/03-1405-08-24.txt",
+          "note": "1EDLw_O6iyRD9MHfk4EdbfEhb0PhNM6eo"
+        },
+        {
+          "n": 4,
+          "date": null,
+          "code": "۱۴۱۵",
+          "seconds": 5526,
+          "video": "http://mba-it.ir/vids/mis/04-bbb-1415.mp4",
+          "transcript": "transcripts/mis/04-1415.txt",
+          "note": "1De9MqahcN7p3fz99gZ2fpoea3Vof2mcX"
+        }
+      ],
+      "resources": [
+        "سیستم‌های اطلاعاتی مدیریت — کنت سی. لادن و جین پی. لادن (مدیریت بنگاه دیجیتال)"
+      ],
+      "resourceNote": "استاد خلاصه و ترجمهٔ فصل‌ها را به‌صورت اسلاید در اختیار کلاس می‌گذارد.",
+      "work": [
+        { "kind": "ارائهٔ گروهی", "text": "موضوع مرتبط و غیرتکراری باید به استاد ارسال شود و مطلب در Word و ارائه در PowerPoint آماده شود. حدود یک هفته برای گروه‌بندی و یکی دو جلسهٔ پایانی برای ارائه در نظر گرفته شد." },
+        { "kind": "نکتهٔ ارائه", "text": "بررسی فناوری‌ها و رویکردهای روز پذیرفته است و می‌توان دامنهٔ موضوع را گسترده‌تر گرفت." },
+        { "kind": "مطالعه", "text": "مرور مبانی داده، مسائل رویکرد فایلینگ، تفاوت پایگاه‌دادهٔ رابطه‌ای و NoSQL، و اصول طراحی و مدل‌سازی داده در سطح مدیران." },
+        { "kind": "نکتهٔ کلاسی", "text": "طراحی پایگاه‌داده نیازمند پیش‌بینی حالت‌های استثنا و انتخاب کلید یکتاست؛ کد ملی در محیط دانشگاه برای کلید اصلی مناسب نیست." }
+      ]
+    },
+    {
+      "slug": "organization",
+      "page": "organization.html",
+      "title": "نظریه‌های سازمان و مدیریت",
+      "teacher": "",
+      "visual": "organization",
+      "driveFolder": "https://drive.google.com/drive/folders/1o5ciZnKfzipLAqOXceXsYjb_I3fTyJ2S",
+      "group": { "label": "گروه کلاس در ایتا", "url": "https://eitaa.com/joinchat/3745711925C9d0bf7a53f", "handle": null },
+      "sessions": [
+        {
+          "n": 1,
+          "date": "1405-07-07",
+          "code": null,
+          "seconds": 954,
+          "video": "http://mba-it.ir/vids/organization/01-1405-07-07-16min.mp4",
+          "transcript": "transcripts/organization/01-1405-07-07.txt",
+          "note": "1-T12JUpjYDRLoHKNq3NRP5lixTbT77sy",
+          "flag": "recording"
+        },
+        {
+          "n": 2,
+          "date": "1405-07-21",
+          "code": null,
+          "seconds": 6828,
+          "video": "http://mba-it.ir/vids/organization/02-1405-07-21-114min.mp4",
+          "transcript": "transcripts/organization/02-1405-07-21.txt",
+          "note": "135obFQkbuetD_pxOpe7QKs_yx-WkVerc"
+        },
+        {
+          "n": 3,
+          "date": "1405-08-05",
+          "code": null,
+          "seconds": 5874,
+          "video": "http://mba-it.ir/vids/organization/03-1405-08-05-98min.mp4",
+          "transcript": "transcripts/organization/03-1405-08-05.txt",
+          "note": "1PybnEuVraGR5XVQe2gA8xUtVY67ORy2w"
+        },
+        {
+          "n": 4,
+          "date": "1405-08-12",
+          "code": null,
+          "seconds": 4338,
+          "video": "http://mba-it.ir/vids/organization/04-1405-08-12-72min.mp4",
+          "transcript": "transcripts/organization/04-1405-08-12.txt",
+          "note": "1qqpKUO19Sjfk6Ul6dDguiTrxCqQjMhpB"
+        },
+        {
+          "n": 5,
+          "date": "1405-08-19",
+          "code": null,
+          "seconds": 6732,
+          "video": "http://mba-it.ir/vids/organization/05-1405-08-19-112min.mp4",
+          "transcript": "transcripts/organization/05-1405-08-19.txt",
+          "note": "1WVW2pN8PfOrPVD1ZJHWhQsW-zGPxDfxs"
+        },
+        {
+          "n": 6,
+          "date": "1405-08-26",
+          "code": null,
+          "seconds": 8880,
+          "video": "http://mba-it.ir/vids/organization/06-1405-08-26-148min.mp4",
+          "transcript": "transcripts/organization/06-1405-08-26.txt",
+          "note": "1nWB5Tt4TWXigPXkPdllYNjYS_MQu-3XD"
+        }
+      ],
+      "resources": [
+        "تئوری و طراحی ساختار — ریچارد ال. دفت، ترجمهٔ اعرابی و پارساییان",
+        "آثار ریچارد هال",
+        "آثار استیفن رابینز"
+      ],
+      "resourceNote": "آثار هال و رابینز به‌عنوان منابع تکمیلی معرفی شدند.",
+      "work": [
+        { "kind": "پروژهٔ گروهی", "text": "تحلیل ابعاد ساختاری و محتوایی یک سازمان یا واحد آن با ۱۰ مصاحبه از مدیران، معاونان و سرپرستان. گزارش در قالب مقاله شامل پیشینه، مبانی نظری، روش، یافته‌ها، تحلیل و نتیجه‌گیری است. مهلت تا پایان ترم و بارم مطرح‌شده ۵ تا ۸ نمره است." },
+        { "kind": "گام بعدی", "text": "تکمیل گروه‌ها و انتخاب سازمان یا واحد قابل‌دسترسی برای تحلیل." },
+        { "kind": "گام بعدی", "text": "هماهنگی با مدیر سازمان، برنامه‌ریزی مصاحبه‌های هدفمند، و تبدیل پرسش‌نامه‌های ابعاد سازمانی به راهنمای مصاحبه." },
+        { "kind": "مطالعه", "text": "مرور راهبرد، اثربخشی، محیط، فناوری و طراحی ساختار همراه با نمونهٔ سازمانی و ارتباط آن‌ها با پروژه." }
+      ]
+    },
+    {
+      "slug": "marketing",
+      "page": "marketing.html",
+      "title": "مدیریت بازاریابی",
+      "teacher": "",
+      "visual": "marketing",
+      "driveFolder": "https://drive.google.com/drive/folders/19pxQi_i2texuMLtbSSEGQYrKLxHKghHg",
+      "group": { "label": "گروه کلاس در بله", "url": "https://ble.ir/join/25y8KhJcwW", "handle": null },
+      "sessions": [
+        {
+          "n": 1,
+          "date": null,
+          "code": null,
+          "seconds": 3462,
+          "video": "http://mba-it.ir/vids/marketing/01-session.mp4",
+          "transcript": "transcripts/marketing/01.txt",
+          "note": "14QgOPOzQjyF6TGwQmzklb7RgcJe4z_pn"
+        },
+        {
+          "n": 2,
+          "date": null,
+          "code": null,
+          "seconds": 4446,
+          "video": "http://mba-it.ir/vids/marketing/02-session.mp4",
+          "transcript": "transcripts/marketing/02.txt",
+          "note": "1p4RIrF-f6IcwEPkekyMtUMyEckDn0O6U"
+        },
+        {
+          "n": 3,
+          "date": null,
+          "code": null,
+          "seconds": 4512,
+          "video": "http://mba-it.ir/vids/marketing/03-session.mp4",
+          "transcript": "transcripts/marketing/03.txt",
+          "note": "14TOEd6d-CxHqXW5vhOFMQnOBxmPtetX9"
+        },
+        {
+          "n": 4,
+          "date": null,
+          "code": null,
+          "seconds": 3588,
+          "video": "http://mba-it.ir/vids/marketing/04-session.mp4",
+          "transcript": "transcripts/marketing/04.txt",
+          "note": "1pHPCRcm9ji1MPvxxjrf4SsyY6BFDZQs0"
+        },
+        {
+          "n": 5,
+          "date": null,
+          "code": "۹۰۷۲",
+          "seconds": 4248,
+          "video": "http://mba-it.ir/vids/marketing/05-resource-9072.mp4",
+          "transcript": "transcripts/marketing/05-9072.txt",
+          "note": "1qGvAHp-MLRzaqgL_ejK1NSzWovAafgEh"
+        },
+        {
+          "n": 6,
+          "date": null,
+          "code": "۹۰۷۴",
+          "seconds": 4224,
+          "video": "http://mba-it.ir/vids/marketing/06-resource-9074.mp4",
+          "transcript": "transcripts/marketing/06-9074.txt",
+          "note": "1tcI2xYMvzHt43mo5mPKSVTQ6hbKWi6wF"
+        }
+      ],
+      "resources": [
+        "مدیریت بازاریابی — فیلیپ کاتلر و کوین لین کلر"
+      ],
+      "resourceNote": "استاد خواندن متن اصلی انگلیسی را برای فهم اصطلاحات تخصصی توصیه کرد.",
+      "work": [
+        { "kind": "پروژه", "text": "ساخت پادکست صوتی روی اسلایدهای محصول انتخابی بر اساس چارچوب اسلاید ۱۸ و تحویل فایل به نمایندهٔ کلاس در پایان ترم. بارم پروژه ۱۰ نمره است." },
+        { "kind": "مقاله", "text": "مقالهٔ درسی ۱۰ نمره دارد؛ جمع این دو بخش ۲۰ نمره از درس را می‌سازد." },
+        { "kind": "قاعدهٔ پروژه", "text": "اگر محصول انتخابی صنعتی است، باید همهٔ کارهای خواسته‌شده در اسلاید ۱۷ روی آن قابل اجرا باشد." },
+        { "kind": "قاعدهٔ حضور", "text": "غیبت بیش از سه جلسه می‌تواند به حذف درس منجر شود و حضور در گلستان ثبت می‌شود." },
+        { "kind": "کار لازم", "text": "دانشجویان تازه‌وارد باید چهار جلسهٔ گذشته را بشنوند و در گروه پیام‌رسان کلاس عضو شوند." }
+      ]
+    },
+    {
+      "slug": "selected-topics",
+      "page": "selected-topics.html",
+      "title": "مباحث منتخب",
+      "teacher": "",
+      "visual": "selected-topics",
+      "driveFolder": "https://drive.google.com/drive/folders/10O1LEpli2fGRNk-XKe1AhwEqL80s1DfG",
+      "group": { "label": "گروه کلاس در بله", "url": "https://ble.ir/mabahesemontakhab", "handle": "@mabahesemontakhab" },
+      "sessions": [
+        {
+          "n": 3,
+          "date": "1405-08-17",
+          "code": null,
+          "seconds": 1986,
+          "video": "http://mba-it.ir/vids/selected-topics/03-1405-08-17-33min.mp4",
+          "transcript": "transcripts/selected-topics/03-1405-08-17.txt",
+          "note": "1v4XZNz4wnbcC1PC-8HUFD2y3QiYuS6_T"
+        },
+        {
+          "n": 4,
+          "date": "1405-08-26",
+          "code": null,
+          "seconds": 8856,
+          "video": "http://mba-it.ir/vids/selected-topics/04-1405-08-26-148min.mp4",
+          "transcript": "transcripts/selected-topics/04-1405-08-26.txt",
+          "note": "1H_hiRe3Bh7yfdLWC_RZOS3VkVWpQMpG8"
+        }
+      ],
+      "resources": [
+        "Business Model Generation",
+        "Value Proposition Design",
+        "Testing Business Ideas",
+        "The Invincible Company",
+        "Business Model You"
+      ],
+      "resourceNote": "تمرکز جلسهٔ سوم بر Business Model You بود و بقیهٔ مجموعه به‌عنوان منبع ارائهٔ فصل‌ها تقسیم شد.",
+      "work": [
+        { "kind": "ارائه", "text": "مطالعه و ارائهٔ فصل‌های تقسیم‌شده از منابع مدل کسب‌وکار، طراحی ارزش و آزمون ایده؛ زمان پیشنهادی هر ارائه حدود ۴۵ دقیقه است و برنامهٔ نهایی در گروه کلاس اعلام می‌شود." },
+        { "kind": "کار لازم", "text": "تطبیق نسخهٔ فارسی منبع انتخابی با نسخهٔ اصلی و تمرکز ارائه بر مدل، مثال و کاربرد عملی فصل." },
+        { "kind": "تمرین", "text": "ترسیم بوم کار فعلی و بوم وضعیت مطلوب و مشخص کردن بخش‌های نیازمند تغییر." }
+      ]
+    },
+    {
+      "slug": "economics",
+      "page": "economics.html",
+      "title": "اصول اقتصاد",
+      "teacher": "",
+      "visual": "economics",
+      "driveFolder": "https://drive.google.com/drive/folders/1BG9qdGqBb_90y72nMklEy_xJCkKvdCo_",
+      "group": { "label": "گروه کلاس در بله", "url": "https://ble.ir/PrinciplesofEconomics", "handle": "@PrinciplesofEconomics" },
+      "sessions": [
+        {
+          "n": 1,
+          "date": "1405-08-23",
+          "code": null,
+          "seconds": 5304,
+          "video": "http://mba-it.ir/vids/economics/01-1405-08-23-88min.mp4",
+          "transcript": "transcripts/economics/01-1405-08-23.txt",
+          "note": "1ryjr92Aa1biTA6N6i9Q-C291VAJgkjfp"
+        },
+        {
+          "n": 2,
+          "date": null,
+          "code": "۱۳۰۵",
+          "seconds": 3126,
+          "video": "http://mba-it.ir/vids/economics/03-bbb-1305.mp4",
+          "transcript": "transcripts/economics/02-1305.txt",
+          "note": "14Ko1GyKHpQnnnB-CDnRj2UnCbvgaoaUP",
+          "flag": "text-only"
+        },
+        {
+          "n": 3,
+          "date": null,
+          "code": "۱۳۷۷",
+          "seconds": 5880,
+          "video": "http://mba-it.ir/vids/economics/04-bbb-1377.mp4",
+          "transcript": "transcripts/economics/03-1377.txt",
+          "note": "1dB1lxOE_A3_B2_l6CEjG6EIjH6toI63E",
+          "flag": "text-only"
+        }
+      ],
+      "extraVideos": [
+        {
+          "label": "قطعهٔ ۲۴ ثانیه‌ای",
+          "date": "1405-08-23",
+          "seconds": 24,
+          "video": "http://mba-it.ir/vids/economics/02-1405-08-23-short.mp4"
+        }
+      ],
+      "resources": [
+        "کلیات علم اقتصاد — گریگوری منکیو، ترجمهٔ حمیدرضا ارباب"
+      ],
+      "resourceNote": "تدریس بر پایهٔ ترجمهٔ فارسی منکیو پیش می‌رود.",
+      "work": [
+        { "kind": "پروژه", "text": "استاد در جلسهٔ اول پروژهٔ قطعی اعلام نکرد. یکی از دانشجویان انجام پروژهٔ امکان‌سنجی اقتصادی با نرم‌افزار کامفار را پیشنهاد داد و تصمیم به مشورت با مدیر گروه موکول شد." },
+        { "kind": "ارزشیابی", "text": "کوئیز کلاسی یا میان‌ترم آنلاین به‌صورت احتمالی مطرح شده و تصمیم نهایی اعلام نشده است." },
+        { "kind": "کار لازم", "text": "یادداشت‌برداری دستی از توضیحات کلاس، چون این جلسه‌ها اسلاید ندارند و توضیح شفاهی جزئی‌تر از هر اسلایدی است." },
+        { "kind": "مطالعه", "text": "مرور ده اصل اقتصاد، اشتغال کامل، سیاست طرف عرضه و تقاضا، و سازوکار خلق پول و تورم." }
+      ]
+    }
+  ]
+}
